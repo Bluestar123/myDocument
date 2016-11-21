@@ -30,7 +30,7 @@ brew install git
 配置个人的用户名称和电子邮件地址：
 
 ```
-git config --global user.name "newming"
+git config --global user.name "Bluestar123"
 git config --global user.email "977527479@qq.com"
 ```
 

@@ -4,6 +4,6 @@
 
 | Item | Description |
 | :------------- | :------------- |
-| name       | newming       |
+| name       | Bluestar123       |
 | e-mail     | 977527479@qq.com     |
-| wechat     | newming1993     |
+| wechat     | Bluestar1231993     |

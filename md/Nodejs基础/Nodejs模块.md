@@ -76,11 +76,11 @@ var add = require('./teacher.js');
 ```js
 // 对应第一种导出方式
 console.log(add); //{ add: [Function: add] }
-add.add('newming'); //teacher name : newming
+add.add('Bluestar123'); //teacher name : Bluestar123
 
 // 对应第二种导出方式
 console.log(add); // [Function: add]
-add('newming'); //teacher name : newming
+add('Bluestar123'); //teacher name : Bluestar123
 
 // 对于第三种方法，同第一中方法一样
 

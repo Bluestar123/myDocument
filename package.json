@@ -1,15 +1,15 @@
 {
-    "name": "NEWMING",
+    "name": "Bluestar123",
     "version": "0.0.1",
-    "description": "Welcome to newming's blog",
+    "description": "Welcome to Bluestar123's blog",
     "keywords": [
-        "newming"
+        "Bluestar123"
     ],
-    "homepage": "http://newming.coding.me/myidoc",
-    "author": "newming",
+    "homepage": "http://Bluestar123.coding.me/myidoc",
+    "author": "Bluestar123",
     "repository": {
         "type": "git",
-        "url": "https://newming.github.io"
+        "url": "https://Bluestar123.github.io"
     },
     "licenses": "MIT",
     "scripts": {

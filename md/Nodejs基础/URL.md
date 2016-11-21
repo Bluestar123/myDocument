@@ -9,7 +9,7 @@
 ```js
 命令行中执行node，进去node环境
 ~ node
-> url.parse('http://www.imooc.com:8080/video/6710?from=newming&course=node#floor1');
+> url.parse('http://www.imooc.com:8080/video/6710?from=Bluestar123&course=node#floor1');
 
 Url{
 	protocol : 'http:',
@@ -19,10 +19,10 @@ Url{
 	port : '8080',
 	hostname : 'www.imooc.com',
 	hash : '#floor1',
-	search : '?from=newming&course=node',
-	query : 'from=newming&course=node',
+	search : '?from=Bluestar123&course=node',
+	query : 'from=Bluestar123&course=node',
 	pathname : '/video/6710',
-	path : '/video/6710?from=newming&course=node',
+	path : '/video/6710?from=Bluestar123&course=node',
 	href : 'http://www.imooc.com/video/6710'
 }
 ```
@@ -41,14 +41,14 @@ Url{
 	port : '8080',
 	hostname : 'www.imooc.com',
 	hash : '#floor1',
-	search : '?from=newming&course=node',
-	query : 'from=newming&course=node',
+	search : '?from=Bluestar123&course=node',
+	query : 'from=Bluestar123&course=node',
 	pathname : '/video/6710',
-	path : '/video/6710?from=newming&course=node',
+	path : '/video/6710?from=Bluestar123&course=node',
 	href : 'http://www.imooc.com/video/6710'
 })
 
-'http://www.imooc.com:8080/video/6710?from=newming&course=node#floor1'
+'http://www.imooc.com:8080/video/6710?from=Bluestar123&course=node#floor1'
 ```
 
 ## url.resolve
